@@ -1,0 +1,24 @@
+{
+	"admob_app_id":"ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy",
+	"admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
+	"admob_interstitial_id":"ca-app-pub-3940256099942544/1033173712",
+	"admob_app_open_id":"ca-app-pub-3940256099942544/3419835294",
+	
+	"ironsource_app_key":"128a0faed",
+	
+	"network_type":"admob",
+	"interstitial_counter":2,
+	
+	"radio_channel_url":"https://icecast.rtl.fr/rtl-1-44-128",
+	
+
+	"facebook_name":"RTL",
+	"twitter":"https://twitter.com/RTLFrance",
+	"instagram":"https://www.instagram.com/rtl_france/",
+	"website":"https://www.rtl.fr/",
+	"appcontact":"RTL",
+	
+	"auto_play":false,
+	
+	"privacy_url":"https://sites.google.com/view/rtl-radio-privacypolicy/"
+}
